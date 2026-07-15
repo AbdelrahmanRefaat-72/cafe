@@ -1,0 +1,282 @@
+{
+  "restaurant_name": {
+    "en": "Urban Taste",
+    "ar": "أوربان تيست"
+  },
+  "restaurant_subname": {
+    "en": "Restaurant & Cafe",
+    "ar": "مطعم ومقهى"
+  },
+  "restaurant_description": {
+    "en": "A modern culinary experience offering gourmet meals, premium specialty coffee, artisanal drinks, and handcrafted desserts.",
+    "ar": "تجربة طهي عصرية تقدم وجبات فاخرة، قهوة مختصة ممتازة، مشروبات مبتكرة، وحلويات مصنوعة يدويًا."
+  },
+  "contact": {
+    "phone": "+20 100 000 0000",
+    "address": {
+      "en": "Mansoura, Egypt",
+      "ar": "المنصورة، مصر"
+    },
+    "socials": {
+      "facebook": "https://facebook.com/urbantaste",
+      "instagram": "https://instagram.com/urbantaste",
+      "whatsapp": "https://wa.me/201000000000"
+    }
+  },
+  "interface": {
+    "search_placeholder": {
+      "en": "Search our delicious menu...",
+      "ar": "ابحث في قائمتنا الشهية..."
+    },
+    "all_categories": {
+      "en": "All",
+      "ar": "الكل"
+    },
+    "currency": {
+      "en": "EGP",
+      "ar": "ج.م"
+    },
+    "no_items_found": {
+      "en": "No items found matching your search.",
+      "ar": "لم يتم العثور على أطباق تطابق بحثك."
+    },
+    "view_menu_btn": {
+      "en": "Explore Menu",
+      "ar": "استكشف القائمة"
+    },
+    "footer_tagline": {
+      "en": "Crafted with passion, served with love.",
+      "ar": "صُنع بشغف، ويُقدّم بكل حب."
+    },
+    "footer_contact_title": {
+      "en": "Contact Us",
+      "ar": "اتصل بنا"
+    },
+    "footer_follow_title": {
+      "en": "Follow Us",
+      "ar": "تابعنا"
+    },
+    "hero_welcome_badge": {
+      "en": "Welcome to",
+      "ar": "مرحباً بكم في"
+    },
+    "empty_title": {
+      "en": "No items found",
+      "ar": "لم يتم العثور على أطباق"
+    },
+    "empty_desc": {
+      "en": "Try checking your spelling or adjusting filters.",
+      "ar": "حاول التحقق من الإملاء أو ضبط الفلاتر."
+    }
+  },
+  "categories": [
+    {
+      "id": "hot-drinks",
+      "name": {
+        "en": "Hot Drinks",
+        "ar": "مشروبات ساخنة"
+      }
+    },
+    {
+      "id": "cold-drinks",
+      "name": {
+        "en": "Cold Drinks",
+        "ar": "مشروبات باردة"
+      }
+    },
+    {
+      "id": "main-meals",
+      "name": {
+        "en": "Main Meals",
+        "ar": "وجبات رئيسية"
+      }
+    },
+    {
+      "id": "desserts",
+      "name": {
+        "en": "Desserts",
+        "ar": "حلويات"
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "espresso",
+      "category": "hot-drinks",
+      "name": {
+        "en": "Espresso",
+        "ar": "إسبريسو"
+      },
+      "description": {
+        "en": "Rich and bold single shot of espresso made from premium Arabica beans.",
+        "ar": "جرعة إسبريسو غنية وقوية محضرة من حبوب أرابيكا الفاخرة."
+      },
+      "price": 50,
+      "badge": {
+        "en": "Pure",
+        "ar": "نقي"
+      }
+    },
+    {
+      "id": "cappuccino",
+      "category": "hot-drinks",
+      "name": {
+        "en": "Cappuccino",
+        "ar": "كابوتشينو"
+      },
+      "description": {
+        "en": "Perfect balance of espresso, steamed milk, and a thick layer of creamy foam.",
+        "ar": "توازن مثالي بين الإسبريسو والحليب المبخر وطبقة غنية من الرغوة الكريمية."
+      },
+      "price": 70,
+      "badge": null
+    },
+    {
+      "id": "latte",
+      "category": "hot-drinks",
+      "name": {
+        "en": "Latte",
+        "ar": "لاتيه"
+      },
+      "description": {
+        "en": "Smooth espresso combined with steamed milk and a light layer of microfoam.",
+        "ar": "إسبريسو سلس ممزوج بالحليب المبخر وطبقة خفيفة من رغوة الحليب الدقيقة."
+      },
+      "price": 80,
+      "badge": {
+        "en": "Popular",
+        "ar": "شائع"
+      }
+    },
+    {
+      "id": "iced-coffee",
+      "category": "cold-drinks",
+      "name": {
+        "en": "Iced Coffee",
+        "ar": "قهوة مثلجة"
+      },
+      "description": {
+        "en": "Chilled espresso poured over ice and blended with cold milk and sweet syrup.",
+        "ar": "إسبريسو مبرد يسكب فوق الثلج ويمزج مع الحليب البارد والشراب الحلو."
+      },
+      "price": 85,
+      "badge": {
+        "en": "Best Seller",
+        "ar": "الأكثر مبيعاً"
+      }
+    },
+    {
+      "id": "mojito",
+      "category": "cold-drinks",
+      "name": {
+        "en": "Mojito",
+        "ar": "موهيتو"
+      },
+      "description": {
+        "en": "Refreshing mocktail with fresh mint leaves, lime slices, sugar, and sparkling water.",
+        "ar": "كوكتيل منعش مع أوراق النعناع الطازجة، شرائح الليمون، السكر، والمياه الفوارة."
+      },
+      "price": 75,
+      "badge": {
+        "en": "Refreshing",
+        "ar": "منعش"
+      }
+    },
+    {
+      "id": "orange-juice",
+      "category": "cold-drinks",
+      "name": {
+        "en": "Fresh Orange Juice",
+        "ar": "عصير برتقال طازج"
+      },
+      "description": {
+        "en": "100% freshly squeezed sweet and citrusy local oranges served chilled.",
+        "ar": "عصير برتقال محلي طازج ومعصور بنسبة 100٪ يقدم مبرداً."
+      },
+      "price": 65,
+      "badge": null
+    },
+    {
+      "id": "classic-burger",
+      "category": "main-meals",
+      "name": {
+        "en": "Classic Burger",
+        "ar": "كلاسيك برجر"
+      },
+      "description": {
+        "en": "Premium grilled beef patty topped with lettuce, tomatoes, onions, cheese, and our special sauce.",
+        "ar": "شريحة لحم بقري فاخرة مشوية تعلوها خس، طماطم، بصل، جبنة، وصلصتنا الخاصة."
+      },
+      "price": 180,
+      "badge": null
+    },
+    {
+      "id": "chicken-burger",
+      "category": "main-meals",
+      "name": {
+        "en": "Chicken Burger",
+        "ar": "برجر دجاج"
+      },
+      "description": {
+        "en": "Crispy golden fried chicken breast, pickles, shredded lettuce, and creamy ranch dressing.",
+        "ar": "صدر دجاج مقلي ومقرمش ذهبي، مخلل، خس مبشور، وصلصة رانش كريمية."
+      },
+      "price": 170,
+      "badge": {
+        "en": "Crispy",
+        "ar": "مقرمش"
+      }
+    },
+    {
+      "id": "margherita-pizza",
+      "category": "main-meals",
+      "name": {
+        "en": "Margherita Pizza",
+        "ar": "بيتزا مارغريتا"
+      },
+      "description": {
+        "en": "Authentic stone-baked pizza topped with aromatic tomato sauce, fresh mozzarella, and fresh basil.",
+        "ar": "بيتزا إيطالية أصلية مخبوزة على الحجر تعلوها صلصة طماطم عطرية، موزاريلا طازجة، وريحان طازج."
+      },
+      "price": 220,
+      "badge": {
+        "en": "Chef's Special",
+        "ar": "مميز"
+      }
+    },
+    {
+      "id": "cheesecake",
+      "category": "desserts",
+      "name": {
+        "en": "Cheesecake",
+        "ar": "تشيز كيك"
+      },
+      "description": {
+        "en": "Creamy New York-style cheesecake on a buttery graham cracker crust, topped with strawberry sauce.",
+        "ar": "تشيز كيك نيويورك الكريمية على طبقة بسكويت غنية بالزبدة، مغطاة بصلصة الفراولة."
+      },
+      "price": 120,
+      "badge": {
+        "en": "New",
+        "ar": "جديد"
+      }
+    },
+    {
+      "id": "chocolate-cake",
+      "category": "desserts",
+      "name": {
+        "en": "Chocolate Cake",
+        "ar": "كعكة الشوكولاتة"
+      },
+      "description": {
+        "en": "Decadent and moist double chocolate fudge cake served warm with chocolate drizzle.",
+        "ar": "كعكة شوكولاتة مضاعفة غنية ورطبة تقدم دافئة مع رذاذ الشوكولاتة اللذيذ."
+      },
+      "price": 110,
+      "badge": {
+        "en": "Indulgent",
+        "ar": "فاخر"
+      }
+    }
+  ]
+}
